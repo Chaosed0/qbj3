@@ -1,0 +1,7 @@
+*.log
+*.prt
+*-compile*
+*.lit
+*.bsp
+*.content.json
+*.texinfo.json
