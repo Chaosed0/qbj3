@@ -14768,7 +14768,7 @@
 // entity 568
 {
 "classname" "monster_swarmer"
-"origin" "288 -1312 600"
+"origin" "304 -1312 600"
 "angle" "180"
 "spawnflags" "1"
 "_tb_layer" "33"
@@ -21478,82 +21478,13 @@
 // entity 917
 {
 "classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "rebar_wizards"
-"_tb_id" "588"
-"_tb_linked_group_id" "{d46dfad7-329d-49cf-982a-6bd20a091f67}"
-"_tb_layer" "33"
-}
-// entity 918
-{
-"classname" "monster_wizard"
-"origin" "608 -3296 920"
-"angle" "90"
-"spawnflags" "240"
-"targetname" "ambush_rebar"
-"wait" "10"
-"_tb_group" "588"
-}
-// entity 919
-{
-"classname" "monster_wizard"
-"origin" "-112 -3264 920"
-"angle" "90"
-"spawnflags" "240"
-"targetname" "ambush_rebar"
-"wait" "10"
-"_tb_group" "588"
-}
-// entity 920
-{
-"classname" "monster_wizard"
-"origin" "1296 -3280 920"
-"angle" "90"
-"spawnflags" "240"
-"targetname" "ambush_rebar"
-"wait" "10"
-"_tb_group" "588"
-}
-// entity 921
-{
-"classname" "monster_wizard"
-"origin" "1472 -2896 920"
-"angle" "90"
-"spawnflags" "240"
-"targetname" "ambush_rebar"
-"wait" "10"
-"_tb_group" "588"
-}
-// entity 922
-{
-"classname" "monster_wizard"
-"origin" "624 -2928 920"
-"angle" "90"
-"spawnflags" "240"
-"targetname" "ambush_rebar"
-"wait" "10"
-"_tb_group" "588"
-}
-// entity 923
-{
-"classname" "monster_wizard"
-"origin" "-112 -2896 920"
-"angle" "90"
-"spawnflags" "240"
-"targetname" "ambush_rebar"
-"wait" "10"
-"_tb_group" "588"
-}
-// entity 924
-{
-"classname" "func_group"
 "_tb_type" "_tb_layer"
 "_tb_name" "Train"
 "_tb_id" "565"
 "_tb_layer_sort_index" "1"
 "_tb_layer_hidden" "1"
 }
-// entity 925
+// entity 918
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -21597,7 +21528,7 @@
 ( 1648 -1648 832 ) ( 1408 -1648 944 ) ( 1408 -1520 944 ) 128_grey_2 [ -0.4228854653311239 0 0.9061831399952655 -59.22397 ] [ 0 -1.0000000000000002 0 0 ] 90 1 1
 }
 }
-// entity 926
+// entity 919
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -21607,7 +21538,7 @@
 "_tb_transformation" "1 0 0 768 0 1 0 0 0 0 1 0 0 0 0 1"
 "_tb_group" "526"
 }
-// entity 927
+// entity 920
 {
 "classname" "func_detail"
 "_tb_group" "527"
@@ -21675,7 +21606,7 @@
 ( 1264 -1456 782.5882352941177 ) ( 1264 -1457 782.5882352941177 ) ( 1264 -1456 783.4705882352941 ) 128_grey_2 [ 7.273661551131594e-16 -1 0 16 ] [ 0 0 -1 -8 ] 180 1 1
 }
 }
-// entity 928
+// entity 921
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -21685,7 +21616,7 @@
 "_tb_transformation" "-1 0 0 1904 0 1 0 0 0 0 1 0 0 0 0 1"
 "_tb_group" "526"
 }
-// entity 929
+// entity 922
 {
 "classname" "func_detail"
 "_tb_group" "528"
@@ -21753,7 +21684,7 @@
 ( 1440 -1648 923.7647058823529 ) ( 1440 -1649 923.7647058823529 ) ( 1440 -1648 924.6470588235294 ) 128_grey_2 [ -7.273661551131594e-16 1 0 -16 ] [ 0 0 -1 -8 ] 0 1 1
 }
 }
-// entity 930
+// entity 923
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -21797,7 +21728,7 @@
 ( 2416 -1648 832 ) ( 2176 -1648 944 ) ( 2176 -1520 944 ) 128_grey_2 [ -0.4228854653311239 0 0.9061831399952655 9.552048 ] [ 0 -1.0000000000000002 0 0 ] 90 1 1
 }
 }
-// entity 931
+// entity 924
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -21807,7 +21738,7 @@
 "_tb_transformation" "1 0 0 1536 0 1 0 0 0 0 1 0 0 0 0 1"
 "_tb_group" "536"
 }
-// entity 932
+// entity 925
 {
 "classname" "func_detail"
 "_tb_group" "534"
@@ -21875,7 +21806,7 @@
 ( 2032 -1456 782.5882352941177 ) ( 2032 -1457 782.5882352941177 ) ( 2032 -1456 783.4705882352941 ) 128_grey_2 [ 7.273661551131594e-16 -1 0 16 ] [ 0 0 -1 -8 ] 180 1 1
 }
 }
-// entity 933
+// entity 926
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -21885,7 +21816,7 @@
 "_tb_transformation" "-1 0 0 2672 0 1 0 0 0 0 1 0 0 0 0 1"
 "_tb_group" "536"
 }
-// entity 934
+// entity 927
 {
 "classname" "func_detail"
 "_tb_group" "535"
@@ -21953,7 +21884,7 @@
 ( 2208 -1648 923.7647058823529 ) ( 2208 -1649 923.7647058823529 ) ( 2208 -1648 924.6470588235294 ) 128_grey_2 [ -7.273661551131594e-16 1 0 -16 ] [ 0 0 -1 -8 ] 0 1 1
 }
 }
-// entity 935
+// entity 928
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -21997,7 +21928,7 @@
 ( 880 -1648 832 ) ( 640 -1648 944 ) ( 640 -1520 944 ) 128_grey_2 [ -0.4228854653311239 0 0.9061831399952655 0 ] [ 0 -1.0000000000000002 0 0 ] 0 1 1
 }
 }
-// entity 936
+// entity 929
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -22006,7 +21937,7 @@
 "_tb_linked_group_id" "{858b8605-ed04-4f1d-af2c-426568c0c101}"
 "_tb_group" "531"
 }
-// entity 937
+// entity 930
 {
 "classname" "func_detail"
 "_tb_group" "529"
@@ -22074,7 +22005,7 @@
 ( 496 -1456 782.5882352941177 ) ( 496 -1457 782.5882352941177 ) ( 496 -1456 783.4705882352941 ) 128_grey_2 [ 7.273661551131594e-16 -1 0 16 ] [ 0 0 -1 120 ] 90 1 1
 }
 }
-// entity 938
+// entity 931
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -22084,7 +22015,7 @@
 "_tb_transformation" "-1 0 0 1136 0 1 0 0 0 0 1 0 0 0 0 1"
 "_tb_group" "531"
 }
-// entity 939
+// entity 932
 {
 "classname" "func_detail"
 "_tb_group" "530"
@@ -22152,7 +22083,7 @@
 ( 672 -1648 923.7647058823529 ) ( 672 -1649 923.7647058823529 ) ( 672 -1648 924.6470588235294 ) 128_grey_2 [ -7.273661551131594e-16 1 0 -16 ] [ 0 0 -1 120 ] 90 1 1
 }
 }
-// entity 940
+// entity 933
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -22162,7 +22093,7 @@
 "_tb_transformation" "1 0 0 1024 0 1 0 -976 0 0 1 960 0 0 0 1"
 "_tb_layer" "565"
 }
-// entity 941
+// entity 934
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -22676,7 +22607,7 @@
 ( 2752 -1232 1120 ) ( 2752 -1232 1121 ) ( 2752 -1231 1120 ) 128_brown_3 [ 0 -4.371139006309477e-08 -0.999999999999999 0 ] [ 0 -0.999999999999999 4.371139006309477e-08 32 ] 0 1 1
 }
 }
-// entity 942
+// entity 935
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -22821,7 +22752,7 @@
 ( 184 -1064 884 ) ( 184 -1064 885 ) ( 184 -1063 884 ) metal_iron3/metal_iron3_t2 [ -4.371139006309478e-08 -0.9999999999999992 3.308722450212111e-24 0 ] [ 0 -3.308722450212111e-24 -1.0000000000000002 0 ] 90 1 1
 }
 }
-// entity 943
+// entity 936
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -22966,7 +22897,7 @@
 ( 352 -1064 884 ) ( 352 -1064 885 ) ( 352 -1063 884 ) metal_iron3/metal_iron3_t2 [ -4.371139006309478e-08 -0.9999999999999992 3.308722450212111e-24 0 ] [ 0 -3.308722450212111e-24 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 944
+// entity 937
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -23111,7 +23042,7 @@
 ( 520 -1064 884 ) ( 520 -1064 885 ) ( 520 -1063 884 ) metal_iron3/metal_iron3_t2 [ -4.371139006309478e-08 -0.9999999999999992 3.308722450212111e-24 0 ] [ 0 -3.308722450212111e-24 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 945
+// entity 938
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -23256,7 +23187,7 @@
 ( 688 -1064 884 ) ( 688 -1064 885 ) ( 688 -1063 884 ) metal_iron3/metal_iron3_t2 [ -4.371139006309478e-08 -0.9999999999999992 3.308722450212111e-24 0 ] [ 0 -3.308722450212111e-24 -1.0000000000000002 0 ] 270 1 1
 }
 }
-// entity 946
+// entity 939
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -23401,7 +23332,7 @@
 ( 856 -1064 884 ) ( 856 -1064 885 ) ( 856 -1063 884 ) metal_iron3/metal_iron3_t2 [ -4.371139006309478e-08 -0.9999999999999992 3.308722450212111e-24 0 ] [ 0 -3.308722450212111e-24 -1.0000000000000002 0 ] 270 1 1
 }
 }
-// entity 947
+// entity 940
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -23546,7 +23477,7 @@
 ( 1024 -1064 884 ) ( 1024 -1064 885 ) ( 1024 -1063 884 ) metal_iron3/metal_iron3_t2 [ -4.371139006309478e-08 -0.9999999999999992 3.308722450212111e-24 0 ] [ 0 -3.308722450212111e-24 -1.0000000000000002 0 ] 180 1 1
 }
 }
-// entity 948
+// entity 941
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -23691,7 +23622,7 @@
 ( 1192 -1064 884 ) ( 1192 -1064 885 ) ( 1192 -1063 884 ) metal_iron3/metal_iron3_t2 [ -4.371139006309478e-08 -0.9999999999999992 3.308722450212111e-24 0 ] [ 0 -3.308722450212111e-24 -1.0000000000000002 0 ] 180 1 1
 }
 }
-// entity 949
+// entity 942
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -23836,7 +23767,7 @@
 ( 1528 -1064 884 ) ( 1528 -1064 885 ) ( 1528 -1063 884 ) metal_iron3/metal_iron3_t2 [ -4.371139006309478e-08 -0.9999999999999992 3.308722450212111e-24 0 ] [ 0 -3.308722450212111e-24 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 950
+// entity 943
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -23981,7 +23912,7 @@
 ( 1360 -1064 884 ) ( 1360 -1064 885 ) ( 1360 -1063 884 ) metal_iron3/metal_iron3_t2 [ -4.371139006309478e-08 -0.9999999999999992 3.308722450212111e-24 0 ] [ 0 -3.308722450212111e-24 -1.0000000000000002 0 ] 90 1 1
 }
 }
-// entity 951
+// entity 944
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -24126,7 +24057,7 @@
 ( 1696 -1064 884 ) ( 1696 -1064 885 ) ( 1696 -1063 884 ) metal_iron3/metal_iron3_t2 [ -4.371139006309478e-08 -0.9999999999999992 3.308722450212111e-24 0 ] [ 0 -3.308722450212111e-24 -1.0000000000000002 0 ] 270 1 1
 }
 }
-// entity 952
+// entity 945
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -24271,7 +24202,7 @@
 ( 1864 -1064 884 ) ( 1864 -1064 885 ) ( 1864 -1063 884 ) metal_iron3/metal_iron3_t2 [ -4.371139006309478e-08 -0.9999999999999992 3.308722450212111e-24 0 ] [ 0 -3.308722450212111e-24 -1.0000000000000002 0 ] 270 1 1
 }
 }
-// entity 953
+// entity 946
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -24416,7 +24347,7 @@
 ( 2536 -1064 884 ) ( 2536 -1064 885 ) ( 2536 -1063 884 ) metal_iron3/metal_iron3_t2 [ -4.371139006309478e-08 -0.9999999999999992 3.308722450212111e-24 0 ] [ 0 -3.308722450212111e-24 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 954
+// entity 947
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -24561,7 +24492,7 @@
 ( 2368 -1064 884 ) ( 2368 -1064 885 ) ( 2368 -1063 884 ) metal_iron3/metal_iron3_t2 [ -4.371139006309478e-08 -0.9999999999999992 3.308722450212111e-24 0 ] [ 0 -3.308722450212111e-24 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 955
+// entity 948
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -24706,7 +24637,7 @@
 ( 2200 -1064 884 ) ( 2200 -1064 885 ) ( 2200 -1063 884 ) metal_iron3/metal_iron3_t2 [ -4.371139006309478e-08 -0.9999999999999992 3.308722450212111e-24 0 ] [ 0 -3.308722450212111e-24 -1.0000000000000002 0 ] 90 1 1
 }
 }
-// entity 956
+// entity 949
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -24851,7 +24782,7 @@
 ( 2032 -1064 884 ) ( 2032 -1064 885 ) ( 2032 -1063 884 ) metal_iron3/metal_iron3_t2 [ -4.371139006309478e-08 -0.9999999999999992 3.308722450212111e-24 0 ] [ 0 -3.308722450212111e-24 -1.0000000000000002 0 ] 180 1 1
 }
 }
-// entity 957
+// entity 950
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -24996,7 +24927,7 @@
 ( 2704 -1064 884 ) ( 2704 -1064 885 ) ( 2704 -1063 884 ) metal_iron3/metal_iron3_t2 [ -4.371139006309478e-08 -0.9999999999999992 3.308722450212111e-24 0 ] [ 0 -3.308722450212111e-24 -1.0000000000000002 0 ] 270 1 1
 }
 }
-// entity 958
+// entity 951
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -25006,7 +24937,7 @@
 "_tb_transformation" "1 0 0 -768 0 1 0 0 0 0 1 0 0 0 0 1"
 "_tb_layer" "565"
 }
-// entity 959
+// entity 952
 {
 "classname" "func_train"
 "target" ""
@@ -25422,7 +25353,7 @@
 ( -924.8000000000002 -1185.6 912 ) ( -892.8000000000002 -1121.6 912 ) ( -892.8000000000002 -1121.6 896 ) industrial_grey1/ind_c02_grey1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 90 1 1
 }
 }
-// entity 960
+// entity 953
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -25432,7 +25363,7 @@
 "_tb_transformation" "1 0 0 -1280 0 1 0 0 0 0 1 0 0 0 0 1"
 "_tb_layer" "565"
 }
-// entity 961
+// entity 954
 {
 "classname" "func_train"
 "target" ""
@@ -25848,7 +25779,7 @@
 ( -1436.8000000000002 -1185.6 912 ) ( -1404.8000000000002 -1121.6 912 ) ( -1404.8000000000002 -1121.6 896 ) industrial_grey1/ind_c02_grey1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 90 1 1
 }
 }
-// entity 962
+// entity 955
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -25858,7 +25789,7 @@
 "_tb_transformation" "1 0 0 -1792 0 1 0 0 0 0 1 0 0 0 0 1"
 "_tb_layer" "565"
 }
-// entity 963
+// entity 956
 {
 "classname" "func_train"
 "target" ""
@@ -26274,7 +26205,7 @@
 ( -1948.8 -1185.6 912 ) ( -1916.8 -1121.6 912 ) ( -1916.8 -1121.6 896 ) industrial_grey1/ind_c02_grey1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 90 1 1
 }
 }
-// entity 964
+// entity 957
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -26284,7 +26215,7 @@
 "_tb_transformation" "1 0 0 -2304 0 1 0 0 0 0 1 0 0 0 0 1"
 "_tb_layer" "565"
 }
-// entity 965
+// entity 958
 {
 "classname" "func_train"
 "target" ""
@@ -26700,7 +26631,7 @@
 ( -2460.8 -1185.6 912 ) ( -2428.8 -1121.6 912 ) ( -2428.8 -1121.6 896 ) industrial_grey1/ind_c02_grey1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 180 1 1
 }
 }
-// entity 966
+// entity 959
 {
 "classname" "target_multiprint"
 "origin" "648 -1464 936"
@@ -26711,7 +26642,7 @@
 "noise" "90 seconds to go..."
 "_tb_layer" "565"
 }
-// entity 967
+// entity 960
 {
 "classname" "target_multiprint"
 "origin" "584 -1464 936"
@@ -26719,7 +26650,7 @@
 "targetname" "train_message_1"
 "_tb_layer" "565"
 }
-// entity 968
+// entity 961
 {
 "classname" "target_multiprint"
 "origin" "552 -1464 936"
@@ -26727,7 +26658,7 @@
 "targetname" "train_activate"
 "_tb_layer" "565"
 }
-// entity 969
+// entity 962
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -26737,7 +26668,7 @@
 "_tb_transformation" "1 0 0 -256 0 1 0 0 0 0 1 0 0 0 0 1"
 "_tb_layer" "565"
 }
-// entity 970
+// entity 963
 {
 "classname" "func_train"
 "target" ""
@@ -27153,7 +27084,7 @@
 ( -412.8000000000002 -1185.6 912 ) ( -380.8000000000002 -1121.6 912 ) ( -380.8000000000002 -1121.6 896 ) industrial_grey1/ind_c02_grey1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 90 1 1
 }
 }
-// entity 971
+// entity 964
 {
 "classname" "trigger_relay"
 "origin" "600 -1464 936"
@@ -27163,7 +27094,7 @@
 "targetname" "train_activate"
 "_tb_layer" "565"
 }
-// entity 972
+// entity 965
 {
 "classname" "trigger_relay"
 "origin" "664 -1432 936"
@@ -27173,7 +27104,7 @@
 "target2" ""
 "_tb_layer" "565"
 }
-// entity 973
+// entity 966
 {
 "classname" "trigger_relay"
 "origin" "696 -1432 936"
@@ -27183,7 +27114,7 @@
 "target2" ""
 "_tb_layer" "565"
 }
-// entity 974
+// entity 967
 {
 "classname" "trigger_relay"
 "origin" "728 -1432 936"
@@ -27193,7 +27124,7 @@
 "target2" ""
 "_tb_layer" "565"
 }
-// entity 975
+// entity 968
 {
 "classname" "func_group"
 "_tb_type" "_tb_layer"
@@ -27202,7 +27133,7 @@
 "_tb_layer_sort_index" "2"
 "_tb_layer_hidden" "1"
 }
-// entity 976
+// entity 969
 {
 "classname" "func_wall"
 "targetname" "train_inviswall"
@@ -27217,7 +27148,7 @@
 ( 2752 -1168 984 ) ( 2752 -1168 985 ) ( 2752 -1167 984 ) clip [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 977
+// entity 970
 {
 "classname" "trigger_once"
 "target" "train_activate"
@@ -27232,7 +27163,7 @@
 ( 2752 -1344 984 ) ( 2752 -1344 985 ) ( 2752 -1343 984 ) trigger [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 978
+// entity 971
 {
 "classname" "path_corner"
 "origin" "232 -1112 872"
