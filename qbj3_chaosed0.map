@@ -1,9 +1,9 @@
-// Game: qbj3
+// Game: Quake
 // Format: Valve
 // entity 0
 {
 "mapversion" "220"
-"wad" "wad\makkon_concrete_gry1.wad;wad\makkon_concrete_orng1.wad;wad\makkon_industrial_blk1.wad;wad\makkon_industrial_rst2b.wad;wad\makkon_industrial_teal1.wad;wad\makkon_liquid.wad;wad\makkon_stone_gry1.wad;wad\prototype_basic_1_3.wad;wad\prototype_skies_1_3.wad;wad\tools.wad;wad\U1greenery-transparent.wad"
+"wad" "wad/makkon_concrete_gry1.wad;wad/makkon_concrete_orng1.wad;wad/makkon_industrial_blk1.wad;wad/makkon_industrial_rst2b.wad;wad/makkon_industrial_teal1.wad;wad/makkon_liquid.wad;wad/makkon_stone_gry1.wad;wad/prototype_basic_1_3.wad;wad/prototype_skies_1_3.wad;wad/tools.wad;wad/U1greenery-transparent.wad"
 "classname" "worldspawn"
 "_tb_mod" "qbj3dev"
 "sky" "mak_cloudysky1_"
@@ -18,6 +18,7 @@
 "_tb_soft_map_bounds" "none"
 "_wateralpha" "0.5"
 "_bounce" "1"
+"_tb_def" "external:qbj3.fgd"
 // brush 0
 {
 ( -128 -64 -32 ) ( -128 -63 -32 ) ( -128 -64 -31 ) 128_grey_3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
